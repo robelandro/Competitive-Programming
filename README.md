@@ -10,33 +10,32 @@ This repository contains solutions to problems from leetcode, hackerrank, and ot
 - [Hackerrank](#hackerrank)
 - [Other](#other)
 
-## 📝 Leetcode
+## 🎲 Leetcode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 
-## 📝 Hackerrank
+## 🎲 Hackerrank
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 
-## 📝 Other
+## 🎲 Other
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 
-## 📝 License
+## 🔐 License
 
 This repository is licensed under the [MIT License](./LICENSE).
 
-## 📝 Acknowledgements
+## 🏆 Acknowledgements
 
 - [Leetcode](https://leetcode.com/)
 - [Hackerrank](https://www.hackerrank.com/)
-- [Contributor Covenant](https://www.contributor-covenant.org/)
-- [Choose a License](https://choosealicense.com/)
 - [GitHub Pages](https://pages.github.com/)
+- [A2SV community](#a2sv-problem-solving-repository)
 
-## 📝 Contact
+## 📧 Contact
 
 If you want to contact me you can reach me at [Roble](mailto:nftalemarega080@gmail.com).
