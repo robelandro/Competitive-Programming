@@ -14,6 +14,7 @@ This repository contains solutions to problems from leetcode, hackerrank, and ot
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 1 | [Fizz-Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](./Fizz-Buzz.py) | Easy |
 
 ## 🎲 Hackerrank
 
