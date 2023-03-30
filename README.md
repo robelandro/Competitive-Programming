@@ -26,6 +26,20 @@ This repository contains solutions to problems from leetcode, hackerrank, and ot
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 
+## 🧪 Testing
+
+To test the solutions, you can use the following command:
+
+```bash
+python -m unittest
+```
+
+or you can use the following command:
+
+```bash
+python3 -m unittest discover tests
+```
+
 ## 🔐 License
 
 This repository is licensed under the [MIT License](./LICENSE).
