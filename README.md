@@ -14,12 +14,13 @@ This repository contains solutions to problems from leetcode, hackerrank, and ot
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-| 1 | [Fizz-Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](./Fizz-Buzz.py) | Easy |
+| 1 | [Fizz-Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](/leetcode/Fizz_Buzz.py) | Easy |
 
 ## 🎲 Hackerrank
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 1 | [grading](https://www.hackerrank.com/challenges/grading/problem) | [Python](/hackerrank/Grading_Students.py) | Easy |
 
 ## 🎲 Other
 
