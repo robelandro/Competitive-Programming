@@ -2,7 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-| 1 | [A. Domino piling](https://codeforces.com/problemset/problem/50/A) | [Python](/codeforces/A_Domino_Piling.py) | Easy |
+| 1 | [A. Domino piling](https://codeforces.com/problemset/problem/50/A) | [Python](./A_Domino_piling.py) | Easy |
 
 ## 🧪 Testing
 
