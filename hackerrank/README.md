@@ -2,7 +2,8 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-| 1 | [grading](https://www.hackerrank.com/challenges/grading/problem) | [Python](/Grading_Students.py) | Easy |
+| 1 | [grading](https://www.hackerrank.com/challenges/grading/problem) | [Python](./Grading_Students.py) | Easy |
+| 2 | [bubble sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Python](./Bubble_Sort.py) | Easy |
 
 ## 🧪 Testing
 

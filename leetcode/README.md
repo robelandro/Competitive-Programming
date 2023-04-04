@@ -2,7 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-| 1 | [Fizz-Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](/Fizz_Buzz.py) | Easy |
+| 1 | [Fizz-Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](./Fizz_Buzz.py) | Easy |
 
 ## 🧪 Testing
 
