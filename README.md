@@ -22,10 +22,11 @@ This repository contains solutions to problems from leetcode, hackerrank, and ot
 |---| ----- | -------- | ---------- |
 | 1 | [grading](https://www.hackerrank.com/challenges/grading/problem) | [Python](/hackerrank/Grading_Students.py) | Easy |
 
-## 🎲 Other
+## 🎲 Codeforces
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+| 1 | [A. Domino piling](https://codeforces.com/problemset/problem/50/A) | [Python](/codeforces/A_Domino_Piling.py) | Easy |
 
 ## 🧪 Testing
 

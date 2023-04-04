@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import unittest
 from hackerrank.Grading_Students import *
 
