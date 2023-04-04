@@ -15,3 +15,12 @@ cd hackerrank;
 OUTPUT_PATH=$(pwd)"/result.txt" ./Grading_Students.py;
 echo "The result is saved in result.txt";
 ```
+
+* Bubble_Sort.py
+
+```bash
+cd hackerrank;
+./Bubble_Sort.py;
+```
+
+then insert the number of elements and the elements.
