@@ -15,16 +15,15 @@ import sys
 #
 
 def insertionSort1(n, arr):
-    tmparr = arr.copy()
-    for i in range(n):
-        tracker = i
-        for j in reversed(range(i)):
-            if arr[j] > tmparr[i]:
-                arr[j+1] = arr[j]
-                tracker = j
-                print(arr)
-        arr[tracker] = tmparr[i]
-    print(arr)
+    for i in range(1, n):
+        key = arr[i]
+        j = i - 1
+        while j >= 0 and arr[j] > key:
+            arr[j + 1] = arr[j]
+            j -= 1
+            print(*arr)
+        arr[j + 1] = key
+    print(*arr)
     return arr
 
 

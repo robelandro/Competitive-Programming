@@ -4,6 +4,7 @@
 |---| ----- | -------- | ---------- |
 | 1 | [grading](https://www.hackerrank.com/challenges/grading/problem) | [Python](./Grading_Students.py) | Easy |
 | 2 | [bubble sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Python](./Bubble_Sort.py) | Easy |
+| 3 | [insertion sort](https://www.hackerrank.com/challenges/insertionsort1/problem) | [Python](./Insertion_Sort.py) | Easy |
 
 ## 🧪 Testing
 
