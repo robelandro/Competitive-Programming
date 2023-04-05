@@ -23,7 +23,7 @@ This repository contains solutions to problems from leetcode, hackerrank, and ot
 | 1 | [grading](https://www.hackerrank.com/challenges/grading/problem) | [Python](/hackerrank/Grading_Students.py) | Easy |
 | 2 | [bubble sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Python](/hackerrank/Counting_Swaps.py) | Easy |
 | 3 | [insertion sort](https://www.hackerrank.com/challenges/runningtime/problem) | [Python](/hackerrank/Insertion_Sort1.py) | Easy |
-| 4 | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) | [Python](/hackerrank/Counting_Sort_1.py) | Easy |
+| 4 | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1/problem) | [Python](/hackerrank/Counting_Sort1.py) | Easy |
 
 ## 🎲 Codeforces
 
