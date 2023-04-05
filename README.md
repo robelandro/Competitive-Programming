@@ -21,12 +21,14 @@ This repository contains solutions to problems from leetcode, hackerrank, and ot
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 | 1 | [grading](https://www.hackerrank.com/challenges/grading/problem) | [Python](/hackerrank/Grading_Students.py) | Easy |
+| 2 | [bubble sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) | [Python](/hackerrank/Counting_Swaps.py) | Easy |
+| 3 | [insertion sort](https://www.hackerrank.com/challenges/runningtime/problem) | [Python](/hackerrank/Insertion_Sort1.py) | Easy |
 
 ## 🎲 Codeforces
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-| 1 | [A. Domino piling](https://codeforces.com/problemset/problem/50/A) | [Python](/codeforces/A_Domino_Piling.py) | Easy |
+| 1 | [A. Domino piling](https://codeforces.com/problemset/problem/50/A) | [Python](./codeforces/A_Domino_piling.py) | Easy |
 
 ## 🧪 Testing
 
