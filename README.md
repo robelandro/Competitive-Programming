@@ -31,6 +31,13 @@ This repository contains solutions to problems from leetcode, hackerrank, and ot
 |---| ----- | -------- | ---------- |
 | 1 | [A. Domino piling](https://codeforces.com/problemset/problem/50/A) | [Python](./codeforces/A_Domino_piling.py) | Easy |
 
+
+## 🎲 Geeksforgeeks
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1| [selection sort](https://www.geeksforgeeks.org/selection-sort/) | [python](./geeksforgeeks/Selection_Sort.py) | Easy |
+
 ## 🧪 Testing
 
 To test the solutions, you can use the following command:
