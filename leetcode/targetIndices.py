@@ -9,8 +9,3 @@ class Solution:
             if nums[j] == target:
                 index.append(j)
         return index
-
-test = Solution()
-num = [8,1,2,2,3]
-target = 8
-print(test.targetIndices(num, target))
