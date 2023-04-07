@@ -16,6 +16,7 @@ This repository contains solutions to problems from leetcode, hackerrank, and ot
 |---| ----- | -------- | ---------- |
 | 1 | [Fizz-Buzz](https://leetcode.com/problems/fizz-buzz/) | [Python](/leetcode/Fizz_Buzz.py) | Easy |
 | 2 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [Python](/leetcode/Sorting_the_Sentence.py) | Easy |
+| 3 | [find-target-indices-after-sorting-array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Python](/leetcode/targetIndices.py) | Easy |
 
 ## 🎲 Hackerrank
 
