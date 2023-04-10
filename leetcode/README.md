@@ -8,3 +8,4 @@
 | 4 | [smallerNumbersThanCurrent](https://leetcode.com/problems/smaller-numbers-than-current/) | [Python](./smallerNumbersThanCurrent.py) | Easy |
 | 5 | [sort colors](https://leetcode.com/problems/sort-colors/) | [Python](./sort_colors.py) | Medium |
 | 6 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./kClosest.py) | Medium |
+| 7 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./merge.py) | Medium |
