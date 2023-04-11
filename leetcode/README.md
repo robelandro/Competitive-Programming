@@ -9,4 +9,4 @@
 | 5 | [sort colors](https://leetcode.com/problems/sort-colors/) | [Python](./sort_colors.py) | Medium |
 | 6 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./kClosest.py) | Medium |
 | 7 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./merge.py) | Medium |
-| 8 | [Array With Elements Not Equal to Average of Neighbors] | [Python](./arrayWithElementsNotEqualToAverageOfNeighbors.py) | Medium |
+| 8 | [Array With Elements Not equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors) | [Python](./rearrangeArray.py) | Medium |
