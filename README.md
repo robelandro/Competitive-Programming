@@ -22,6 +22,7 @@ This repository contains solutions to problems from leetcode, hackerrank, and ot
 | 6 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](./leetcode/kClosest.py) | Medium |
 | 7 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./leetcode/merge.py) | Medium |
 | 8 | [Array With Elements Not equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors) | [Python](./leetcode/rearrangeArray.py) | Medium |
+| 9 | [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | [Python](./leetcode/kthLargestNumber.py) | Medium |
 
 ## 🎲 Hackerrank
 | # | Title | Solution | Difficulty |
