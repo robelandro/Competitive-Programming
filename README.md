@@ -6,9 +6,10 @@ This repository contains solutions to problems from leetcode, hackerrank, and ot
 
 ## 📚 Table of Contents
 
-- [Leetcode](#leetcode)
-- [Hackerrank](#hackerrank)
-- [Other](#other)
+- [Leetcode](#-leetcode)
+- [Hackerrank](#-hackerrank)
+- [Codeforces](#🎲-codeforces)
+- [Geeksforgeeks](#🎲-geeksforgeeks)
 
 ## 🎲 Leetcode
 
