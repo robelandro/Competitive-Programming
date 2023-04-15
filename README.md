@@ -8,8 +8,8 @@ This repository contains solutions to problems from leetcode, hackerrank, and ot
 
 - [Leetcode](#-leetcode)
 - [Hackerrank](#-hackerrank)
-- [Codeforces](#🎲-codeforces)
-- [Geeksforgeeks](#🎲-geeksforgeeks)
+- [Codeforces](#-codeforces)
+- [Geeksforgeeks](#-geeksforgeeks)
 
 ## 🎲 Leetcode
 
