@@ -23,7 +23,7 @@ This repository contains solutions to problems from leetcode, hackerrank, and ot
 | 7 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](./leetcode/merge.py) | Medium |
 | 8 | [Array With Elements Not equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors) | [Python](./leetcode/rearrangeArray.py) | Medium |
 | 9 | [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | [Python](./leetcode/kthLargestNumber.py) | Medium |
-| 10 | [ Largest Number ] (https://leetcode.com/problems/largest-number/) | [Python](./leetcode/Largest_Number.py) | Medium |
+| 10 | [ Largest Number ](https://leetcode.com/problems/largest-number/) | [Python](./leetcode/Largest_Number.py) | Medium |
 
 ## 🎲 Hackerrank
 | # | Title | Solution | Difficulty |
