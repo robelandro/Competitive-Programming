@@ -12,3 +12,4 @@
 | 8 | [Array With Elements Not equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors) | [Python](./rearrangeArray.py) | Medium |
 | 9 | [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | [Python](./kthLargestNumber.py) | Medium |
 | 10 | [ Largest Number ](https://leetcode.com/problems/largest-number/) | [Python](./Largest_Number.py) | Medium |
+| 11 | [Find original Array from Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [Python](./findOriginalArray.py) | Medium |
