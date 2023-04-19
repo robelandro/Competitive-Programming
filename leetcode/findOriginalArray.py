@@ -8,6 +8,7 @@ class Solution:
         if len(changed) % 2 != 0:
             return []
         freq = collections.Counter(changed)
+        print(freq)
         original = []
         for num in sorted(changed):
             if freq[num] == 0:
@@ -25,5 +26,5 @@ class Solution:
         return original
  
 test  = Solution()
-changed = [1,3,4,2,6,8]
+changed = [1,3,4,2,6,8,8,16]
 print(test.findOriginalArray(changed)) # 1 3 4 8
