@@ -14,3 +14,4 @@
 | 10 | [ Largest Number ](https://leetcode.com/problems/largest-number/) | [Python](./Largest_Number.py) | Medium |
 | 11 | [Find original Array from Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [Python](./findOriginalArray.py) | Medium |
 | 12 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Python](./maxFrequency.py) | Medium |
+| 13 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [Python](./numIdenticalPairs.py) | Easy |
